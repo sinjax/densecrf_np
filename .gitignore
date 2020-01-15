@@ -3,4 +3,5 @@ __pycache__
 build
 py_permutohedral.cpp
 *.so
+.ipynb_checkpoints
 
